@@ -1,0 +1,12 @@
+
+kNN's total number of accuracy is: 180
+
+kNN's total accuracy rate is: 0.900000
+
+bayes's total number of accuracy is: 163
+
+bayes's total accuracy rate is: 0.815000
+
+most_NN's total number of accuracy is: 176
+
+most_NN's total accuracy rate is: 0.880000
